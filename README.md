@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying computer engineering in [National college of engineering](https://nce.edu.np)
 
-- 🌱 I’m currently learning **python,nummpy, pandas and machine learning**
+- 🌱 I’m currently learning **python,machine learning and Deep learning**
 
 - 💬 Ask me about **python,nummpy,pandas**
 
