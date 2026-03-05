@@ -80,17 +80,6 @@
 
 
 ---
-
-
-
-## 🚀 Goals
-
-✅ Build AI / ML Projects  
-✅ Work on Real World Data Solutions  
-✅ Improve Full Stack + AI Integration  
-
----
-
 ## ❤️ Thanks For Visiting
 
 <p align="center">
